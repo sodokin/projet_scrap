@@ -5,7 +5,5 @@ def member_of_parliament
 	member1 = []
 	member1 = page.xpath("/html/body").text
 	puts member1
-		
-	end
-	
 end
+member_of_parliament
