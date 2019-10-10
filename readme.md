@@ -1,0 +1,1 @@
+Today, you will automate the massive recovery of data from websites (= you will scrape). Your Ruby and HTML skills will allow you to retrieve this information in less than a day. You will have fun with the course of the cryptomonnaies, you will get the e-mails from the town halls of our beautiful country, then you will catch the list of e-mails from the deputies of France.
